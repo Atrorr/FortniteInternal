@@ -9,4 +9,4 @@ Join my discord for free DLL [https://discord.gg/WQWmnC2ANg](https://discord.gg/
 External*
 Using Vulkan download -> https://www.vulkan.org/
 acutally undetected BE / EAC ;)
-
+,
